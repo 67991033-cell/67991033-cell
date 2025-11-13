@@ -10,10 +10,10 @@ I’m a 2nd-year Kosen student at KMITL in Thailand, soon transferring to Kosen 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [MyPortfolio](http://https://www.canva.com/design/DAF9A_581Ic/FdoJeTlR-4uQjYs3SIPMEg/edit)
 * ✉️  You can contact me at [67991033@kmitl.ac.th](mailto:67991033@kmitl.ac.th)
-* 🚀  I'm currently working on [Flippy slime](http://scratch.mit.edu/projects/559399342/editor/)
+* 🚀 my minigame [Flippy slime](http://scratch.mit.edu/projects/559399342/editor/)
 * 🧠  I'm currently learning Python and Japanese
 * 👥  I'm looking to collaborate on Engine Program and Gameplay Program
-* 💬  Ask me about I like watching anime
+* 💬  veni vici vedi
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
