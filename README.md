@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joan Bautista
 ======================================================================================================================================
 
-Game developer & Artist
+Computer engineering student & Artist
 -----------------------
 
 I’m a 2nd-year Kosen student at KMITL in Thailand, soon transferring to Kosen in Japan. I’m interested in game development and programming, especially creating interactive characters and environments. creating projects with Python. I enjoy learning new things, and using technology to make a positive impact.
